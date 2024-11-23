@@ -48,7 +48,7 @@ docker run -p 8000:8000 wq-app
 
 # Test
 ```
-POST wq-app-g8aja4eggreugrhs.francecentral-01.azurewebsites.net/predict
+POST https://wq-app-g8aja4eggreugrhs.francecentral-01.azurewebsites.net/predict
 ```
 
 Body
